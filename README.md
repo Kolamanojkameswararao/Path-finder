@@ -1,4 +1,4 @@
-#Path-Finder
+# Path-Finder
 Steps:
 1) Press left click for start node and again left click for obstackles.
 2) Create obstackles by using left click wherever you want.
